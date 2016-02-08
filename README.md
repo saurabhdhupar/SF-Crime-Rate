@@ -1,6 +1,6 @@
 # SF-Crime-Rate
 
-#The data proves how unsafe it is to spend your weekend in San Francisco, especially during the evening and night time. The number of larceny and vehicle theft cases have increased month over month which outnumbers other types of crime.
+###The data proves how unsafe it is to spend your weekend in San Francisco, especially during the evening and night time. The number of larceny and vehicle theft cases have increased month over month which outnumbers other types of crime.
 
 
 There are 3 graphs :-
